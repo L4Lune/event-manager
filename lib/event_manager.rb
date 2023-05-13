@@ -1,1 +1,1 @@
-puts 'Event Manager Initialize!'
+puts 'Event Manager Initialized!'
